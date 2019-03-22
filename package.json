@@ -1,0 +1,25 @@
+{
+  "name": "varis",
+  "version": "0.0.1",
+  "description": "Type judgment for javascript",
+  "main": "varis.min.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonaneoc/varis.git"
+  },
+  "keywords": [
+    "type",
+    "typeof",
+    "js",
+    "javascript"
+  ],
+  "author": "zsj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moonaneoc/varis/issues"
+  },
+  "homepage": "https://github.com/moonaneoc/varis#readme"
+}
