@@ -1,6 +1,6 @@
 {
   "name": "varis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Type judgment for javascript",
   "main": "varis.min.js",
   "scripts": {

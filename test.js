@@ -4,7 +4,7 @@ let utils = require("./varis.min.js");
 
 let str, num, bool, arr, vnull, vundefined, obj, reg, func, date;
 
-let fn = "isInt";
+let fn = "isObj";
 
 str = "abc";
 console.log(`\t"${str}"\t${fn}\t${utils[fn](str)}`);
